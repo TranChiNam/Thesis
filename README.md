@@ -1,1 +1,3 @@
-# Thesis inlcue 2 or more framework (Angular 2, ReactJS,...) in folders
+# Thesis inlcue documents about Angular2, ReactJS in 2 folders
+
+# Src in 2 file .zip
